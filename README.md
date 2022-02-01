@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geochti
-- 👀 I’m interested in IOT devices and space ships
-- 🌱 I’m currently learning english ;)
-- 💞️ I’m looking to collaborate on a secret project 
+- 👀 I’m interested in IoT devices and space ships
+- 🌱 I’m currently learning english ;) (i'm living in France)
+- 💞️ I’m looking to collaborate on a secret project for a new IoT devices 
 - 📫 How to reach me : by email for this moment.
 
 <!---
