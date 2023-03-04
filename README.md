@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @geochti
-- 👀 I’m interested in IoT devices and space ships
-- 🌱 I’m currently learning english ;) (i'm living in France)
-- 💞️ I’m looking to collaborate on a secret project for a new IoT devices 
-- 📫 How to reach me : by email for this moment.
+- 👀 I’m interresting in IOT, IA and society board games and role playnig games.
+- 🌱 I'm living in France
+- 💞️ I'm learning GitHub.
+- 📫 How to reach me : by email.
 
 <!---
 geochti/geochti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
